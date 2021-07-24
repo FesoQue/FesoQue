@@ -1,5 +1,5 @@
 ### Hi there,👋
-I am Adefeso Q. Adebola, a motivated designer and dedicated developer with practical knowledge creating custom responsive websites through HTML, CSS, JavaScript and WordPress.
+I am Adefeso Q. Adebola, a motivated designer and dedicated developer with practical knowledge creating custom & responsive websites using HTML, CSS, JavaScript and WordPress.
 I pay good attention to details and I have also got eye 👀 for all design and basic layout principle.
 
 ### Some Cool Things About Me😎
