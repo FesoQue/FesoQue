@@ -1,20 +1,21 @@
 ### Hi there,👋
-I am Adefeso Q. Adebola, a motivated designer and dedicated developer with practical knowledge creating custom & responsive websites using HTML, CSS, JavaScript and WordPress.
-I pay good attention to details and I have also got eye 👀 for all design and basic layout principle.
+Hello,
+I'm Qudus Adebola, a frontend developer. I create fast, simple, elegant, usable & functional landing page, custom websites & frontend application with:
+I.) Beautiful user interface
+II.) Functional user experience
+III.) Mobile/responsive design
+IV) Good web accessibility
+V.) Great cross-browser compatibility.
 
-### Some Cool Things About Me😎
-
-- 🔭 I’m currently working on some side projects during weekends 😎
-- 🌱 I’m currently learning ReactJs and FireBase🔥
-- 👯 I’m looking to collaborate on full stack web development
-- 💬 Ask me about frontend/web technologies
-- 📫 How to reach me: fesoque0@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: dark mode all day, everyday
-- 🎧 I love hip-hop & Afro beat music
-- ⚽ I love football and I support Manchester United♦️
+As a person, I'm ambitious, goal driven & detail oriented. I'm also naturally curious, confident and always eager to broaden his horizon by learning different new technologies.
 
 
+### How to reach me 👀
+
+ 📧  adefesoq@gmail.com@
+ 🔗  https://qdus.netlify.app/about
+ 🐦  https://twitter.com/pengpixel
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fesoque" alt="fesoque" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
