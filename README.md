@@ -13,7 +13,7 @@ As a person, I'm ambitious, goal driven & detail oriented. I'm also naturally cu
 ### How to reach me 👀
 
  📧  adefesoq@gmail.com@
- 🔗  https://qdus.netlify.app/about
+ 🔗  https://qdus.netlify.app/
  🐦  https://twitter.com/pengpixel
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fesoque" alt="fesoque" /></a> </p>
