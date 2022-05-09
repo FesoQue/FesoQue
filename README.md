@@ -1,20 +1,21 @@
 ### Hi there,👋
-Hello,
-I'm Qudus Adebola, a frontend developer. I create fast, simple, elegant, usable & functional landing page, custom websites & frontend application with:
-I.) Beautiful user interface
-II.) Functional user experience
-III.) Mobile/responsive design
-IV) Good web accessibility
-V.) Great cross-browser compatibility.
+Hello,<br/>
+I'm Qudus Adebola, a frontend developer. I create fast, simple, elegant, usable & functional landing page, custom websites & frontend application with:<br/>
+I.) Beautiful user interface<br/>
+II.) Functional user experience<br/>
+III.) Mobile/responsive design<br/>
+IV) Good web accessibility<br/>
+V.) Great cross-browser compatibility.<br/><br/>
 
 As a person, I'm ambitious, goal driven & detail oriented. I'm also naturally curious, confident and always eager to broaden his horizon by learning different new technologies.
-
+<br/>
 
 ### How to reach me 👀
-
+<br/>
  📧  adefesoq@gmail.com
 <br/>
  🔗  https://qdus.netlify.app/
+<br/>
  🐦  https://twitter.com/pengpixel
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fesoque" alt="fesoque" /></a> </p>
