@@ -12,7 +12,8 @@ As a person, I'm ambitious, goal driven & detail oriented. I'm also naturally cu
 
 ### How to reach me 👀
 
- 📧  adefesoq@gmail.com@
+ 📧  adefesoq@gmail.com
+<br/>
  🔗  https://qdus.netlify.app/
  🐦  https://twitter.com/pengpixel
  
