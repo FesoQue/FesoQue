@@ -11,13 +11,12 @@ V.) Great cross-browser compatibility.<br/>
 As a person, I'm ambitious, goal driven & detail oriented. I'm also naturally curious, confident and always eager to broaden his horizon by learning different new technologies.
 <br/>
 ### How to reach me 👀
-<br/>
  📧  adefesoq@gmail.com
 <br/>
  🔗  https://qdus.netlify.app/
 <br/>
- 🐦  https://twitter.com/pengpixel
- 
+ 🐦  https://twitter.com/pengpixel<br/><br/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fesoque" alt="fesoque" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
