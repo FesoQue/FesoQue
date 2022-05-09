@@ -1,15 +1,15 @@
 ### Hi there,👋
 Hello,<br/>
+
 I'm Qudus Adebola, a frontend developer. I create fast, simple, elegant, usable & functional landing page, custom websites & frontend application with:<br/>
 I.) Beautiful user interface<br/>
 II.) Functional user experience<br/>
 III.) Mobile/responsive design<br/>
 IV) Good web accessibility<br/>
-V.) Great cross-browser compatibility.<br/><br/>
+V.) Great cross-browser compatibility.<br/>
 
 As a person, I'm ambitious, goal driven & detail oriented. I'm also naturally curious, confident and always eager to broaden his horizon by learning different new technologies.
 <br/>
-
 ### How to reach me 👀
 <br/>
  📧  adefesoq@gmail.com
